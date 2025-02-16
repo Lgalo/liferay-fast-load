@@ -1,0 +1,7 @@
+Bundle-Name: fastLoader
+Bundle-SymbolicName: fastLoader
+Bundle-Version: 1.0.0
+Export-Package: fastLoader.constants
+Provide-Capability:\
+	liferay.language.resources;\
+		resource.bundle.base.name="content.Language"

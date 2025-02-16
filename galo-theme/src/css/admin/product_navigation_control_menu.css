@@ -1,0 +1,359 @@
+/*1707287404000*/
+@media(min-width: 576px)and (prefers-reduced-motion: no-preference) {
+  html:not(#__):not(#___) body.sidenav-transition #wrapper {
+    transition:padding .5s ease
+  }
+}
+@media(min-width: 576px)and (prefers-reduced-motion: no-preference)and (prefers-reduced-motion: reduce) {
+  html:not(#__):not(#___) body.sidenav-transition #wrapper {
+    transition:none
+  }
+}
+@media(min-width: 576px)and (prefers-reduced-motion: no-preference) {
+  html:not(#__):not(#___) body.sidenav-transition #wrapper {
+    transition:none
+  }
+}
+@media(min-width: 576px) {
+  html:not(#__):not(#___) body.open-admin-panel #wrapper {
+    padding-right:320px
+  }
+}
+html:not(#__):not(#___) .cadmin.lfr-admin-panel.sidenav-menu-slider {
+  top:var(--control-menu-container-height);
+  z-index:990
+}
+html:not(#__):not(#___) .cadmin.lfr-admin-panel.sidenav-menu-slider .product-menu {
+  width:320px
+}
+html:not(#__):not(#___) .cadmin.lfr-admin-panel.sidenav-menu-slider .product-menu.light {
+  background-color:#fff
+}
+html:not(#__):not(#___) .cadmin.lfr-admin-panel .sidebar-body {
+  padding:0
+}
+html:not(#__):not(#___) .cadmin.lfr-add-panel .search-bar {
+  display:block;
+  margin:10px
+}
+html:not(#__):not(#___) .cadmin.lfr-add-panel .search-bar .form-control {
+  display:block;
+  float:none;
+  padding-right:32px
+}
+html:not(#__):not(#___) .cadmin.lfr-add-panel .input-group-btn {
+  display:block;
+  margin-top:-8px;
+  position:absolute;
+  right:20px;
+  top:50%;
+  z-index:4
+}
+html:not(#__):not(#___) .cadmin.lfr-add-panel .list-group-heading {
+  font-size:14px
+}
+html:not(#__):not(#___) .cadmin.lfr-add-panel .add-content-menu .add-application-panel .lfr-content-item {
+  margin-bottom:8px;
+  padding:0 16px 0 8px
+}
+html:not(#__):not(#___) .cadmin.lfr-add-panel .add-content-menu .add-application-panel .lfr-content-item.lfr-archived-setup {
+  padding-left:30px
+}
+html:not(#__):not(#___) .cadmin.lfr-add-panel .add-content-menu .add-content-panel .lfr-content-item {
+  color:#272833
+}
+html:not(#__):not(#___) .cadmin.lfr-add-panel .add-content-menu .display-style-bar {
+  padding:4px 16px
+}
+html:not(#__):not(#___) .cadmin.lfr-add-panel .add-content-menu .display-style-bar .display-style {
+  align-items:center;
+  display:inline-flex;
+  height:32px;
+  justify-content:center;
+  margin-left:8px;
+  width:32px
+}
+html:not(#__):not(#___) .cadmin.lfr-add-panel .add-content-menu .display-style-bar .display-style.active {
+  color:#869cad
+}
+html:not(#__):not(#___) .cadmin.lfr-add-panel .add-content-menu .display-style-bar .dropdown-toggle {
+  align-items:center;
+  display:inline-flex;
+  height:32px;
+  padding-left:4px;
+  padding-right:4px;
+  text-decoration:none
+}
+html:not(#__):not(#___) .cadmin.lfr-add-panel .add-content-menu .display-style-bar .dropdown-toggle .lexicon-icon-caret-double {
+  margin-left:4.8px
+}
+html:not(#__):not(#___) .cadmin.lfr-add-panel .add-content-menu .add-content-button .nav>li {
+  padding:4px 16px
+}
+html:not(#__):not(#___) .cadmin.lfr-add-panel .add-content-menu .add-content-button .dropdown-toggle {
+  align-items:center;
+  display:inline-flex;
+  height:32px;
+  line-height:1;
+  padding:0 4px
+}
+html:not(#__):not(#___) .cadmin.lfr-add-panel .add-content-menu .add-content-button .dropdown-toggle .lexicon-icon-caret-bottom {
+  margin-left:4.8px
+}
+html:not(#__):not(#___) .cadmin.lfr-add-panel .add-content-menu .nav>li>a:before {
+  right:0
+}
+@media(prefers-reduced-motion: no-preference) {
+  html:not(#__):not(#___) .sidenav-transition .cadmin.affix,
+  html:not(#__):not(#___) .sidenav-transition .cadmin.control-menu-container {
+    transition:all .5s ease
+  }
+}
+@media(prefers-reduced-motion: no-preference)and (prefers-reduced-motion: reduce) {
+  html:not(#__):not(#___) .sidenav-transition .cadmin.affix,
+  html:not(#__):not(#___) .sidenav-transition .cadmin.control-menu-container {
+    transition:none
+  }
+}
+@media(prefers-reduced-motion: no-preference) {
+  html:not(#__):not(#___) .sidenav-transition .c-prefers-reduced-motion .cadmin.affix,
+  html:not(#__):not(#___) .sidenav-transition .c-prefers-reduced-motion .cadmin.control-menu-container {
+    transition:none
+  }
+}
+html:not(#__):not(#___) .cadmin.affix,
+html:not(#__):not(#___) .cadmin.control-menu-container {
+  top:0;
+  z-index:989
+}
+@media(min-width: 576px) {
+  html:not(#__):not(#___) .cadmin.affix,
+  html:not(#__):not(#___) .cadmin.control-menu-container {
+    position:sticky
+  }
+}
+html:not(#__):not(#___) .cadmin .control-menu-level-1>.container-fluid {
+  padding:8px
+}
+@media(min-width: 576px) {
+  html:not(#__):not(#___) .cadmin .control-menu-level-1>.container-fluid {
+    padding:12px
+  }
+}
+html:not(#__):not(#___) .cadmin .control-menu-level-1 .personal-menu-dropdown .dropdown-toggle {
+  margin-bottom:-2px;
+  margin-top:-2px;
+  padding:2px
+}
+html:not(#__):not(#___) .cadmin .control-menu-level-1 #impersonate-user-sticker {
+  bottom:-6.4px;
+  color:#272833;
+  font-size:9.6px;
+  height:19.2px;
+  right:-6.4px;
+  width:19.2px
+}
+html:not(#__):not(#___) .cadmin .control-menu-level-1 a:not(.dropdown-item):focus,
+html:not(#__):not(#___) .cadmin .control-menu-level-1 a:not(.dropdown-item):hover,
+html:not(#__):not(#___) .cadmin .control-menu-level-1 button:not(.btn-link):not(.dropdown-item):not(.nav-link):focus,
+html:not(#__):not(#___) .cadmin .control-menu-level-1 button:not(.btn-link):not(.dropdown-item):not(.nav-link):hover {
+  text-decoration:none
+}
+html:not(#__):not(#___) .cadmin .control-menu-level-1-heading {
+  font-size:16px;
+  font-weight:600
+}
+html:not(#__):not(#___) .cadmin .control-menu-level-1-dark {
+  background-color:#30313f;
+  color:#cdced9
+}
+html:not(#__):not(#___) .cadmin .control-menu-level-1-dark a:not(.dropdown-item),
+html:not(#__):not(#___) .cadmin .control-menu-level-1-dark button:not(.btn-link):not(.dropdown-item):not(.nav-link) {
+  color:#cdced9
+}
+html:not(#__):not(#___) .cadmin .control-menu-level-1-dark a:not(.dropdown-item):focus,
+html:not(#__):not(#___) .cadmin .control-menu-level-1-dark a:not(.dropdown-item):hover,
+html:not(#__):not(#___) .cadmin .control-menu-level-1-dark button:not(.btn-link):not(.dropdown-item):not(.nav-link):focus,
+html:not(#__):not(#___) .cadmin .control-menu-level-1-dark button:not(.btn-link):not(.dropdown-item):not(.nav-link):hover {
+  background-color:rgba(255,255,255,.03);
+  color:#fff
+}
+html:not(#__):not(#___) .cadmin .control-menu-level-1-dark .control-menu-level-1-heading {
+  color:#fff
+}
+html:not(#__):not(#___) .cadmin .control-menu-level-1-light {
+  background-color:#fff;
+  border-bottom:1px solid #f1f2f5;
+  color:#6b6c7e
+}
+html:not(#__):not(#___) .cadmin .control-menu-level-1-light a:not(.dropdown-item),
+html:not(#__):not(#___) .cadmin .control-menu-level-1-light button:not(.btn-link):not(.dropdown-item):not(.nav-link) {
+  color:#6b6c7e
+}
+html:not(#__):not(#___) .cadmin .control-menu-level-1-light a:not(.dropdown-item):focus,
+html:not(#__):not(#___) .cadmin .control-menu-level-1-light a:not(.dropdown-item):hover,
+html:not(#__):not(#___) .cadmin .control-menu-level-1-light button:not(.btn-link):not(.dropdown-item):not(.nav-link):focus,
+html:not(#__):not(#___) .cadmin .control-menu-level-1-light button:not(.btn-link):not(.dropdown-item):not(.nav-link):hover {
+  background-color:#f1f2f5;
+  color:#393a4a
+}
+html:not(#__):not(#___) .cadmin .control-menu-level-1-light>.container-fluid {
+  padding-bottom:7px
+}
+@media(min-width: 576px) {
+  html:not(#__):not(#___) .cadmin .control-menu-level-1-light>.container-fluid {
+    padding-bottom:11px
+  }
+}
+html:not(#__):not(#___) .cadmin .control-menu-level-1-light .control-menu-level-1-heading {
+  color:#272833
+}
+html:not(#__):not(#___) .cadmin .control-menu-level-1-nav {
+  display:flex;
+  flex-wrap:wrap
+}
+html:not(#__):not(#___) .cadmin .control-menu-level-1-nav>div>.control-menu-nav>.control-menu-nav-item,
+html:not(#__):not(#___) .cadmin .control-menu-level-1-nav>li>.control-menu-nav>.control-menu-nav-item {
+  margin-left:4px;
+  margin-right:4px
+}
+html:not(#__):not(#___) .cadmin .control-menu-level-1-nav>.control-menu-nav-item {
+  align-self:center
+}
+html:not(#__):not(#___) .cadmin .control-menu-level-2 {
+  background-color:#fff;
+  border-bottom:1px solid #e7e7ed;
+  color:#272833;
+  padding-bottom:7px;
+  padding-top:6px
+}
+html:not(#__):not(#___) .cadmin .control-menu-level-2 a,
+html:not(#__):not(#___) .cadmin .control-menu-level-2 a:focus,
+html:not(#__):not(#___) .cadmin .control-menu-level-2 a:hover {
+  color:#6b6c7e
+}
+html:not(#__):not(#___) .cadmin .control-menu-level-2 .container-fluid-max-xl {
+  padding-left:20px
+}
+html:not(#__):not(#___) .cadmin .control-menu-level-2 .text-info {
+  font-size:14px
+}
+html:not(#__):not(#___) .cadmin .control-menu-level-2 .toggle-switch-bar .toggle-switch-handle {
+  font-size:14px;
+  text-transform:none
+}
+@media(min-width: 576px) {
+  html:not(#__):not(#___) .cadmin .control-menu-level-2 .control-menu-label {
+    color:#272833
+  }
+}
+@media(max-width: 767.98px) {
+  html:not(#__):not(#___) .cadmin .control-menu-level-2 {
+    bottom:0;
+    display:none;
+    left:0;
+    position:fixed;
+    right:0;
+    top:0;
+    z-index:1
+  }
+}
+@media(max-width: 767.98px) {
+  html:not(#__):not(#___) .cadmin .control-menu-level-2.open {
+    display:block;
+    overflow:auto
+  }
+}
+html:not(#__):not(#___) .cadmin .control-menu-level-2-heading {
+  font-size:18px;
+  font-weight:500;
+  padding:20px 0;
+  text-align:center
+}
+html:not(#__):not(#___) .cadmin .control-menu-level-2-heading button.close {
+  color:#272833;
+  opacity:1
+}
+html:not(#__):not(#___) .cadmin .control-menu-level-2-nav {
+  display:flex;
+  flex-wrap:nowrap;
+  justify-content:space-between
+}
+@media(max-width: 767.98px) {
+  html:not(#__):not(#___) .cadmin .control-menu-level-2-nav>.control-menu-nav-item {
+    margin-bottom:55px
+  }
+  html:not(#__):not(#___) .cadmin .control-menu-level-2-nav .control-menu-nav-item,
+  html:not(#__):not(#___) .cadmin .control-menu-level-2-nav .dropdown {
+    width:100%
+  }
+}
+html:not(#__):not(#___) .cadmin .control-menu-nav {
+  align-items:center;
+  display:flex;
+  font-size:16px;
+  list-style:none;
+  margin-bottom:0;
+  padding-left:0
+}
+html:not(#__):not(#___) .cadmin .control-menu-nav-item {
+  display:inline-flex
+}
+html:not(#__):not(#___) .cadmin .control-menu-nav-item-content:last-child:not(:first-child) {
+  display:flex;
+  flex-basis:0;
+  flex-grow:1;
+  flex-shrink:1;
+  min-width:48px;
+  width:0
+}
+html:not(#__):not(#___) .cadmin .control-menu-nav-item-content:last-child:not(:first-child) .clamp-container {
+  overflow:hidden;
+  text-overflow:ellipsis;
+  top:50%;
+  transform:translateY(-50%);
+  white-space:nowrap
+}
+html:not(#__):not(#___) .cadmin .control-menu-nav-item-content:last-child:not(:first-child) span.text-muted {
+  font-size:14px
+}
+html:not(#__):not(#___) .cadmin .control-menu-nav-item-separator:not(:first-child):before {
+  background-color:#6b6c7e;
+  content:"";
+  height:16px;
+  margin-right:16px;
+  position:relative;
+  top:8px;
+  width:1px
+}
+html:not(#__):not(#___) .cadmin .control-menu-nav-item-field {
+  flex:0 1 auto
+}
+html:not(#__):not(#___) .cadmin .tools-control-group>.control-menu-nav {
+  flex-wrap:nowrap;
+  justify-content:flex-start
+}
+html:not(#__):not(#___) .cadmin .tools-control-group .taglib-icon-help {
+  margin-top:1px;
+  min-width:32px;
+  text-align:center
+}
+html:not(#__):not(#___) .cadmin .user-control-group {
+  flex-grow:1
+}
+html:not(#__):not(#___) .cadmin .user-control-group .control-menu-nav {
+  justify-content:end
+}
+html:not(#__):not(#___) .cadmin .user-control-group .portlet-options {
+  margin-right:-1px
+}
+.has-control-menu {
+  --control-menu-height: 56px
+}
+@media(max-width: 575.98px) {
+  .has-control-menu {
+    --control-menu-height: 48px
+  }
+}
+
+/*# sourceMappingURL=product_navigation_control_menu.css.map */

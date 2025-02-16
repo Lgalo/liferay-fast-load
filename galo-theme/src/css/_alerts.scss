@@ -1,0 +1,23 @@
+
+.alert-info, .portlet-msg-help, .portlet-msg-info, .portlet-msg-progress {
+    background-color: #eef2fa;
+    border-color: #89a7e0;
+    color: #2e5aac;
+}
+.alert, .portlet-msg-alert, .portlet-msg-error, .portlet-msg-help, .portlet-msg-info, .portlet-msg-progress, .portlet-msg-success {
+    border-style: solid;
+    border-width: 0.0625rem;
+    border-radius: 0.25rem;
+    display: block;
+    font-size: 0.875rem;
+    margin-bottom: 1rem;
+    padding: 0.9375rem 1rem;
+    position: relative;
+    white-space: normal;
+    word-wrap: break-word;
+
+    button {
+        font-size: 0.875rem;
+        padding:0px;
+    }
+}
